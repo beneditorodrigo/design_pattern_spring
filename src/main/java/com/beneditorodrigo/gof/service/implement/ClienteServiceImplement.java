@@ -16,13 +16,13 @@ public class ClienteServiceImplement implements ClienteService {
     }
 
     @Override
-    public void inserir(Cliente cliente) {
-
+    public Cliente inserir(Cliente cliente) {
+        return null;
     }
 
     @Override
-    public void atualizar(Long id, Cliente cliente) {
-
+    public Cliente atualizar(Long id, Cliente cliente) {
+        return null;
     }
 
     @Override
